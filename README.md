@@ -12,4 +12,3 @@ get my lists
 get list info
 create matches
 destroy list
-```
